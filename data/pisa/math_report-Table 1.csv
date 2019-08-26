@@ -1,0 +1,613 @@
+Year,Jurisdiction,Average,Standard Error
+2015,Selected countries and jurisdictions,466,(0.4)
+2015,International Average (OECD),490,(0.4)
+2015,Australia,494,(1.6)
+2015,Austria,497,(2.9)
+2015,Belgium,507,(2.4)
+2015,Canada,516,(2.3)
+2015,Chile,423,(2.5)
+2015,Czech Republic,492,(2.4)
+2015,Denmark,511,(2.2)
+2015,Estonia,520,(2.0)
+2015,Finland,511,(2.3)
+2015,France,493,(2.1)
+2015,Germany,506,(2.9)
+2015,Greece,454,(3.8)
+2015,Hungary,477,(2.5)
+2015,Iceland,488,(2.0)
+2015,Ireland,504,(2.1)
+2015,Israel,470,(3.6)
+2015,Italy,490,(2.8)
+2015,Japan,532,(3.0)
+2015,Korea,524,(3.7)
+2015,Latvia,482,(1.9)
+2015,Luxembourg,486,(1.3)
+2015,Mexico,408,(2.2)
+2015,Netherlands,512,(2.2)
+2015,New Zealand,495,(2.3)
+2015,Norway,502,(2.2)
+2015,Poland,504,(2.4)
+2015,Portugal,492,(2.5)
+2015,Slovak Republic,475,(2.7)
+2015,Slovenia,510,(1.3)
+2015,Spain,486,(2.2)
+2015,Sweden,494,(3.2)
+2015,Switzerland,521,(2.9)
+2015,Turkey,420,(4.1)
+2015,United Kingdom,492,(2.5)
+2015,United States,470,(3.2)
+2015,Albania,—,†
+2015,Albania (2015),413,(3.4)
+2015,Algeria,360,(3.0)
+2015,Argentina (2015),409,(3.1)
+2015,Brazil,377,(2.9)
+2015,B-S-J-G (China),531,(4.9)
+2015,Bulgaria,441,(4.0)
+2015,CABA (Argentina),456,(6.9)
+2015,Colombia,390,(2.3)
+2015,Costa Rica,400,(2.5)
+2015,Croatia,464,(2.8)
+2015,Cyprus,437,(1.7)
+2015,Dominican Republic,328,(2.7)
+2015,FYROM,371,(1.3)
+2015,Georgia,404,(2.8)
+2015,Hong Kong (China),548,(3.0)
+2015,Indonesia,386,(3.1)
+2015,Jordan,380,(2.7)
+2015,Kazakhstan,—,†
+2015,Kazakhstan (2015),460,(4.3)
+2015,Kosovo,362,(1.6)
+2015,Lebanon,396,(3.7)
+2015,Lithuania,478,(2.3)
+2015,Macao (China),544,(1.1)
+2015,Malaysia,—,†
+2015,Malaysia (2015),446,(3.3)
+2015,Malta,479,(1.7)
+2015,Moldova,420,(2.5)
+2015,Montenegro,418,(1.5)
+2015,Peru,387,(2.7)
+2015,Qatar,402,(1.3)
+2015,Romania,444,(3.8)
+2015,Russia,494,(3.1)
+2015,Singapore,564,(1.5)
+2015,Chinese Taipei,542,(3.0)
+2015,Thailand,415,(3.0)
+2015,Trinidad and Tobago,417,(1.4)
+2015,Tunisia,367,(3.0)
+2015,United Arab Emirates,427,(2.4)
+2015,Uruguay,418,(2.5)
+2015,Viet Nam,495,(4.5)
+2015,Belgium: Flemish Community,521,(2.5)
+2015,Spain: Andalusia,466,(4.1)
+2015,Spain: Aragon,500,(5.0)
+2015,Spain: Asturias,492,(5.3)
+2015,Spain: Balearic Islands,476,(6.3)
+2015,Spain: Basque Country,492,(3.7)
+2015,Spain: Canary Islands,452,(4.7)
+2015,Spain: Cantabria,495,(9.1)
+2015,Spain: Castile and Leon,506,(4.6)
+2015,Spain: Castile-La Mancha,486,(3.4)
+2015,Spain: Catalonia,500,(4.5)
+2015,Spain: Comunidad Valenciana,485,(3.5)
+2015,Spain: Extremadura,473,(4.6)
+2015,Spain: Galicia,494,(4.3)
+2015,Spain: La Rioja,505,(9.4)
+2015,Spain: Madrid,503,(4.2)
+2015,Spain: Murcia,470,(6.8)
+2015,Spain: Navarre,518,(7.7)
+2015,United Arab Emirates: Abu Dhabi,413,(4.7)
+2015,United Arab Emirates: Dubai,467,(1.9)
+2015,United Kingdom: Scotland,491,(2.6)
+2015,United States: Massachusetts,500,(5.5)
+2015,United States: North Carolina,471,(4.4)
+2015,United States: Puerto Rico,378,(5.6)
+2012,Selected countries and jurisdictions,475,(0.4)
+2012,International Average (OECD),494,(0.5)
+2012,Australia,504,(1.6)
+2012,Austria,506,(2.7)
+2012,Belgium,515,(2.1)
+2012,Canada,518,(1.8)
+2012,Chile,423,(3.1)
+2012,Czech Republic,499,(2.9)
+2012,Denmark,500,(2.3)
+2012,Estonia,521,(2.0)
+2012,Finland,519,(1.9)
+2012,France,495,(2.5)
+2012,Germany,514,(2.9)
+2012,Greece,453,(2.5)
+2012,Hungary,477,(3.2)
+2012,Iceland,493,(1.7)
+2012,Ireland,501,(2.2)
+2012,Israel,466,(4.7)
+2012,Italy,485,(2.0)
+2012,Japan,536,(3.6)
+2012,Korea,554,(4.6)
+2012,Latvia,491,(2.8)
+2012,Luxembourg,490,(1.1)
+2012,Mexico,413,(1.4)
+2012,Netherlands,523,(3.5)
+2012,New Zealand,500,(2.2)
+2012,Norway,489,(2.7)
+2012,Poland,518,(3.6)
+2012,Portugal,487,(3.8)
+2012,Slovak Republic,482,(3.4)
+2012,Slovenia,501,(1.2)
+2012,Spain,484,(1.9)
+2012,Sweden,478,(2.3)
+2012,Switzerland,531,(3.0)
+2012,Turkey,448,(4.8)
+2012,United Kingdom,494,(3.3)
+2012,United States,481,(3.6)
+2012,Albania,394,(2.0)
+2012,Albania (2015),—,†
+2012,Algeria,—,†
+2012,Argentina (2015),—,†
+2012,Brazil,389,(1.9)
+2012,B-S-J-G (China),—,†
+2012,Bulgaria,439,(4.0)
+2012,CABA (Argentina),418,(7.3)
+2012,Colombia,376,(2.9)
+2012,Costa Rica,407,(3.0)
+2012,Croatia,471,(3.5)
+2012,Cyprus,—,†
+2012,Dominican Republic,—,†
+2012,FYROM,—,†
+2012,Georgia,—,†
+2012,Hong Kong (China),561,(3.2)
+2012,Indonesia,375,(4.0)
+2012,Jordan,386,(3.1)
+2012,Kazakhstan,432,(3.0)
+2012,Kazakhstan (2015),—,†
+2012,Kosovo,—,†
+2012,Lebanon,—,†
+2012,Lithuania,479,(2.6)
+2012,Macao (China),538,(1.0)
+2012,Malaysia,421,(3.2)
+2012,Malaysia (2015),—,†
+2012,Malta,—,†
+2012,Moldova,—,†
+2012,Montenegro,410,(1.1)
+2012,Peru,368,(3.7)
+2012,Qatar,376,(0.8)
+2012,Romania,445,(3.8)
+2012,Russia,482,(3.0)
+2012,Singapore,573,(1.3)
+2012,Chinese Taipei,560,(3.3)
+2012,Thailand,427,(3.4)
+2012,Trinidad and Tobago,—,†
+2012,Tunisia,388,(3.9)
+2012,United Arab Emirates,434,(2.4)
+2012,Uruguay,409,(2.8)
+2012,Viet Nam,511,(4.8)
+2012,Belgium: Flemish Community,531,(3.3)
+2012,Spain: Andalusia,472,(3.8)
+2012,Spain: Aragon,496,(5.4)
+2012,Spain: Asturias,500,(4.3)
+2012,Spain: Balearic Islands,475,(4.8)
+2012,Spain: Basque Country,505,(2.5)
+2012,Spain: Canary Islands,—,†
+2012,Spain: Cantabria,491,(3.5)
+2012,Spain: Castile and Leon,509,(4.2)
+2012,Spain: Castile-La Mancha,—,†
+2012,Spain: Catalonia,493,(5.2)
+2012,Spain: Comunidad Valenciana,—,†
+2012,Spain: Extremadura,461,(4.4)
+2012,Spain: Galicia,489,(4.2)
+2012,Spain: La Rioja,503,(1.9)
+2012,Spain: Madrid,504,(3.5)
+2012,Spain: Murcia,462,(4.7)
+2012,Spain: Navarre,517,(3.1)
+2012,United Arab Emirates: Abu Dhabi,421,(4.0)
+2012,United Arab Emirates: Dubai,464,(1.2)
+2012,United Kingdom: Scotland,498,(2.6)
+2012,United States: Massachusetts,—,†
+2012,United States: North Carolina,—,†
+2012,United States: Puerto Rico,—,†
+2009,Selected countries and jurisdictions,476,(0.4)
+2009,International Average (OECD),495,(0.5)
+2009,Australia,514,(2.5)
+2009,Austria,496,(2.7)
+2009,Belgium,515,(2.3)
+2009,Canada,527,(1.6)
+2009,Chile,421,(3.1)
+2009,Czech Republic,493,(2.8)
+2009,Denmark,503,(2.6)
+2009,Estonia,512,(2.6)
+2009,Finland,541,(2.2)
+2009,France,497,(3.1)
+2009,Germany,513,(2.9)
+2009,Greece,466,(3.9)
+2009,Hungary,490,(3.5)
+2009,Iceland,507,(1.4)
+2009,Ireland,487,(2.5)
+2009,Israel,447,(3.3)
+2009,Italy,483,(1.9)
+2009,Japan,529,(3.3)
+2009,Korea,546,(4.0)
+2009,Latvia,482,(3.1)
+2009,Luxembourg,489,(1.2)
+2009,Mexico,419,(1.8)
+2009,Netherlands,526,(4.7)
+2009,New Zealand,519,(2.3)
+2009,Norway,498,(2.4)
+2009,Poland,495,(2.8)
+2009,Portugal,487,(2.9)
+2009,Slovak Republic,497,(3.1)
+2009,Slovenia,501,(1.2)
+2009,Spain,483,(2.1)
+2009,Sweden,494,(2.9)
+2009,Switzerland,534,(3.3)
+2009,Turkey,445,(4.4)
+2009,United Kingdom,492,(2.4)
+2009,United States,487,(3.6)
+2009,Albania,377,(4.0)
+2009,Albania (2015),—,†
+2009,Algeria,—,†
+2009,Argentina (2015),—,†
+2009,Brazil,386,(2.4)
+2009,B-S-J-G (China),—,†
+2009,Bulgaria,428,(5.9)
+2009,CABA (Argentina),—,†
+2009,Colombia,381,(3.2)
+2009,Costa Rica,—,†
+2009,Croatia,460,(3.1)
+2009,Cyprus,—,†
+2009,Dominican Republic,—,†
+2009,FYROM,—,†
+2009,Georgia,—,†
+2009,Hong Kong (China),555,(2.7)
+2009,Indonesia,371,(3.7)
+2009,Jordan,387,(3.7)
+2009,Kazakhstan,405,(3.0)
+2009,Kazakhstan (2015),—,†
+2009,Kosovo,—,†
+2009,Lebanon,—,†
+2009,Lithuania,477,(2.6)
+2009,Macao (China),525,(0.9)
+2009,Malaysia,—,†
+2009,Malaysia (2015),—,†
+2009,Malta,—,†
+2009,Moldova,—,†
+2009,Montenegro,403,(2.0)
+2009,Peru,365,(4.0)
+2009,Qatar,368,(0.7)
+2009,Romania,427,(3.4)
+2009,Russia,468,(3.3)
+2009,Singapore,562,(1.4)
+2009,Chinese Taipei,543,(3.4)
+2009,Thailand,419,(3.2)
+2009,Trinidad and Tobago,414,(1.3)
+2009,Tunisia,371,(3.0)
+2009,United Arab Emirates,—,†
+2009,Uruguay,427,(2.6)
+2009,Viet Nam,—,†
+2009,Belgium: Flemish Community,537,(3.1)
+2009,Spain: Andalusia,462,(5.2)
+2009,Spain: Aragon,506,(5.2)
+2009,Spain: Asturias,494,(4.6)
+2009,Spain: Balearic Islands,—,†
+2009,Spain: Basque Country,510,(2.8)
+2009,Spain: Canary Islands,—,†
+2009,Spain: Cantabria,495,(5.0)
+2009,Spain: Castile and Leon,514,(5.3)
+2009,Spain: Castile-La Mancha,—,†
+2009,Spain: Catalonia,496,(6.0)
+2009,Spain: Comunidad Valenciana,—,†
+2009,Spain: Extremadura,—,†
+2009,Spain: Galicia,489,(4.3)
+2009,Spain: La Rioja,504,(2.7)
+2009,Spain: Madrid,—,†
+2009,Spain: Murcia,—,†
+2009,Spain: Navarre,511,(3.6)
+2009,United Arab Emirates: Abu Dhabi,—,†
+2009,United Arab Emirates: Dubai,453,(1.1)
+2009,United Kingdom: Scotland,499,(3.3)
+2009,United States: Massachusetts,—,†
+2009,United States: North Carolina,—,†
+2009,United States: Puerto Rico,—,†
+2006,Selected countries and jurisdictions,479,(0.4)
+2006,International Average (OECD),494,(0.5)
+2006,Australia,520,(2.2)
+2006,Austria,505,(3.7)
+2006,Belgium,520,(3.0)
+2006,Canada,527,(2.0)
+2006,Chile,411,(4.6)
+2006,Czech Republic,510,(3.6)
+2006,Denmark,513,(2.6)
+2006,Estonia,515,(2.7)
+2006,Finland,548,(2.3)
+2006,France,496,(3.2)
+2006,Germany,504,(3.9)
+2006,Greece,459,(3.0)
+2006,Hungary,491,(2.9)
+2006,Iceland,506,(1.8)
+2006,Ireland,501,(2.8)
+2006,Israel,442,(4.3)
+2006,Italy,462,(2.3)
+2006,Japan,523,(3.3)
+2006,Korea,547,(3.8)
+2006,Latvia,486,(3.0)
+2006,Luxembourg,490,(1.1)
+2006,Mexico,406,(2.9)
+2006,Netherlands,531,(2.6)
+2006,New Zealand,522,(2.4)
+2006,Norway,490,(2.6)
+2006,Poland,495,(2.4)
+2006,Portugal,466,(3.1)
+2006,Slovak Republic,492,(2.8)
+2006,Slovenia,504,(1.0)
+2006,Spain,480,(2.3)
+2006,Sweden,502,(2.4)
+2006,Switzerland,530,(3.2)
+2006,Turkey,424,(4.9)
+2006,United Kingdom,495,(2.1)
+2006,United States,474,(4.0)
+2006,Albania,—,†
+2006,Albania (2015),—,†
+2006,Algeria,—,†
+2006,Argentina (2015),—,†
+2006,Brazil,370,(2.9)
+2006,B-S-J-G (China),—,†
+2006,Bulgaria,413,(6.1)
+2006,CABA (Argentina),—,†
+2006,Colombia,370,(3.8)
+2006,Costa Rica,—,†
+2006,Croatia,467,(2.4)
+2006,Cyprus,—,†
+2006,Dominican Republic,—,†
+2006,FYROM,—,†
+2006,Georgia,—,†
+2006,Hong Kong (China),547,(2.7)
+2006,Indonesia,391,(5.6)
+2006,Jordan,384,(3.3)
+2006,Kazakhstan,—,†
+2006,Kazakhstan (2015),—,†
+2006,Kosovo,—,†
+2006,Lebanon,—,†
+2006,Lithuania,486,(2.9)
+2006,Macao (China),525,(1.3)
+2006,Malaysia,—,†
+2006,Malaysia (2015),—,†
+2006,Malta,—,†
+2006,Moldova,—,†
+2006,Montenegro,399,(1.4)
+2006,Peru,—,†
+2006,Qatar,318,(1.0)
+2006,Romania,415,(4.2)
+2006,Russia,476,(3.9)
+2006,Singapore,—,†
+2006,Chinese Taipei,549,(4.1)
+2006,Thailand,417,(2.3)
+2006,Trinidad and Tobago,—,†
+2006,Tunisia,365,(4.0)
+2006,United Arab Emirates,—,†
+2006,Uruguay,427,(2.6)
+2006,Viet Nam,—,†
+2006,Belgium: Flemish Community,543,(3.7)
+2006,Spain: Andalusia,463,(4.2)
+2006,Spain: Aragon,513,(4.5)
+2006,Spain: Asturias,497,(4.9)
+2006,Spain: Balearic Islands,—,†
+2006,Spain: Basque Country,501,(3.4)
+2006,Spain: Canary Islands,—,†
+2006,Spain: Cantabria,502,(2.6)
+2006,Spain: Castile and Leon,515,(3.3)
+2006,Spain: Castile-La Mancha,—,†
+2006,Spain: Catalonia,488,(5.2)
+2006,Spain: Comunidad Valenciana,—,†
+2006,Spain: Extremadura,—,†
+2006,Spain: Galicia,494,(4.1)
+2006,Spain: La Rioja,526,(2.2)
+2006,Spain: Madrid,—,†
+2006,Spain: Murcia,—,†
+2006,Spain: Navarre,515,(3.5)
+2006,United Arab Emirates: Abu Dhabi,—,†
+2006,United Arab Emirates: Dubai,—,†
+2006,United Kingdom: Scotland,506,(3.6)
+2006,United States: Massachusetts,—,†
+2006,United States: North Carolina,—,†
+2006,United States: Puerto Rico,—,†
+2003,Selected countries and jurisdictions,486,(0.5)
+2003,International Average (OECD),499,(0.6)
+2003,Australia,524,(2.1)
+2003,Austria,506,(3.3)
+2003,Belgium,529,(2.3)
+2003,Canada,532,(1.8)
+2003,Chile,—,†
+2003,Czech Republic,516,(3.5)
+2003,Denmark,514,(2.7)
+2003,Estonia,—,†
+2003,Finland,544,(1.9)
+2003,France,511,(2.5)
+2003,Germany,503,(3.3)
+2003,Greece,445,(3.9)
+2003,Hungary,490,(2.8)
+2003,Iceland,515,(1.4)
+2003,Ireland,503,(2.4)
+2003,Israel,—,†
+2003,Italy,466,(3.1)
+2003,Japan,534,(4.0)
+2003,Korea,542,(3.2)
+2003,Latvia,483,(3.7)
+2003,Luxembourg,493,(1.0)
+2003,Mexico,385,(3.6)
+2003,Netherlands,538,(3.1)
+2003,New Zealand,523,(2.3)
+2003,Norway,495,(2.4)
+2003,Poland,490,(2.5)
+2003,Portugal,466,(3.4)
+2003,Slovak Republic,498,(3.3)
+2003,Slovenia,—,†
+2003,Spain,485,(2.4)
+2003,Sweden,509,(2.6)
+2003,Switzerland,527,(3.4)
+2003,Turkey,423,(6.7)
+2003,United Kingdom,508,(2.4)
+2003,United States,483,(2.9)
+2003,Albania,—,†
+2003,Albania (2015),—,†
+2003,Algeria,—,†
+2003,Argentina (2015),—,†
+2003,Brazil,356,(4.8)
+2003,B-S-J-G (China),—,†
+2003,Bulgaria,—,†
+2003,CABA (Argentina),—,†
+2003,Colombia,—,†
+2003,Costa Rica,—,†
+2003,Croatia,—,†
+2003,Cyprus,—,†
+2003,Dominican Republic,—,†
+2003,FYROM,—,†
+2003,Georgia,—,†
+2003,Hong Kong (China),550,(4.5)
+2003,Indonesia,360,(3.9)
+2003,Jordan,—,†
+2003,Kazakhstan,—,†
+2003,Kazakhstan (2015),—,†
+2003,Kosovo,—,†
+2003,Lebanon,—,†
+2003,Lithuania,—,†
+2003,Macao (China),527,(2.9)
+2003,Malaysia,—,†
+2003,Malaysia (2015),—,†
+2003,Malta,—,†
+2003,Moldova,—,†
+2003,Montenegro,—,†
+2003,Peru,—,†
+2003,Qatar,—,†
+2003,Romania,—,†
+2003,Russia,468,(4.2)
+2003,Singapore,—,†
+2003,Chinese Taipei,—,†
+2003,Thailand,417,(3.0)
+2003,Trinidad and Tobago,—,†
+2003,Tunisia,359,(2.5)
+2003,United Arab Emirates,—,†
+2003,Uruguay,422,(3.3)
+2003,Viet Nam,—,†
+2003,Belgium: Flemish Community,—,†
+2003,Spain: Andalusia,—,†
+2003,Spain: Aragon,—,†
+2003,Spain: Asturias,—,†
+2003,Spain: Balearic Islands,—,†
+2003,Spain: Basque Country,—,†
+2003,Spain: Canary Islands,—,†
+2003,Spain: Cantabria,—,†
+2003,Spain: Castile and Leon,—,†
+2003,Spain: Castile-La Mancha,—,†
+2003,Spain: Catalonia,—,†
+2003,Spain: Comunidad Valenciana,—,†
+2003,Spain: Extremadura,—,†
+2003,Spain: Galicia,—,†
+2003,Spain: La Rioja,—,†
+2003,Spain: Madrid,—,†
+2003,Spain: Murcia,—,†
+2003,Spain: Navarre,—,†
+2003,United Arab Emirates: Abu Dhabi,—,†
+2003,United Arab Emirates: Dubai,—,†
+2003,United Kingdom: Scotland,—,†
+2003,United States: Massachusetts,—,†
+2003,United States: North Carolina,—,†
+2003,United States: Puerto Rico,—,†
+2000,Selected countries and jurisdictions,—,†
+2000,International Average (OECD),—,†
+2000,Australia,—,†
+2000,Austria,—,†
+2000,Belgium,—,†
+2000,Canada,—,†
+2000,Chile,—,†
+2000,Czech Republic,—,†
+2000,Denmark,—,†
+2000,Estonia,—,†
+2000,Finland,—,†
+2000,France,—,†
+2000,Germany,—,†
+2000,Greece,—,†
+2000,Hungary,—,†
+2000,Iceland,—,†
+2000,Ireland,—,†
+2000,Israel,—,†
+2000,Italy,—,†
+2000,Japan,—,†
+2000,Korea,—,†
+2000,Latvia,—,†
+2000,Luxembourg,—,†
+2000,Mexico,—,†
+2000,Netherlands,—,†
+2000,New Zealand,—,†
+2000,Norway,—,†
+2000,Poland,—,†
+2000,Portugal,—,†
+2000,Slovak Republic,—,†
+2000,Slovenia,—,†
+2000,Spain,—,†
+2000,Sweden,—,†
+2000,Switzerland,—,†
+2000,Turkey,—,†
+2000,United Kingdom,—,†
+2000,United States,—,†
+2000,Albania,—,†
+2000,Albania (2015),—,†
+2000,Algeria,—,†
+2000,Argentina (2015),—,†
+2000,Brazil,—,†
+2000,B-S-J-G (China),—,†
+2000,Bulgaria,—,†
+2000,CABA (Argentina),—,†
+2000,Colombia,—,†
+2000,Costa Rica,—,†
+2000,Croatia,—,†
+2000,Cyprus,—,†
+2000,Dominican Republic,—,†
+2000,FYROM,—,†
+2000,Georgia,—,†
+2000,Hong Kong (China),—,†
+2000,Indonesia,—,†
+2000,Jordan,—,†
+2000,Kazakhstan,—,†
+2000,Kazakhstan (2015),—,†
+2000,Kosovo,—,†
+2000,Lebanon,—,†
+2000,Lithuania,—,†
+2000,Macao (China),—,†
+2000,Malaysia,—,†
+2000,Malaysia (2015),—,†
+2000,Malta,—,†
+2000,Moldova,—,†
+2000,Montenegro,—,†
+2000,Peru,—,†
+2000,Qatar,—,†
+2000,Romania,—,†
+2000,Russia,—,†
+2000,Singapore,—,†
+2000,Chinese Taipei,—,†
+2000,Thailand,—,†
+2000,Trinidad and Tobago,—,†
+2000,Tunisia,—,†
+2000,United Arab Emirates,—,†
+2000,Uruguay,—,†
+2000,Viet Nam,—,†
+2000,Belgium: Flemish Community,—,†
+2000,Spain: Andalusia,—,†
+2000,Spain: Aragon,—,†
+2000,Spain: Asturias,—,†
+2000,Spain: Balearic Islands,—,†
+2000,Spain: Basque Country,—,†
+2000,Spain: Canary Islands,—,†
+2000,Spain: Cantabria,—,†
+2000,Spain: Castile and Leon,—,†
+2000,Spain: Castile-La Mancha,—,†
+2000,Spain: Catalonia,—,†
+2000,Spain: Comunidad Valenciana,—,†
+2000,Spain: Extremadura,—,†
+2000,Spain: Galicia,—,†
+2000,Spain: La Rioja,—,†
+2000,Spain: Madrid,—,†
+2000,Spain: Murcia,—,†
+2000,Spain: Navarre,—,†
+2000,United Arab Emirates: Abu Dhabi,—,†
+2000,United Arab Emirates: Dubai,—,†
+2000,United Kingdom: Scotland,—,†
+2000,United States: Massachusetts,—,†
+2000,United States: North Carolina,—,†
+2000,United States: Puerto Rico,—,†

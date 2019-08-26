@@ -1,0 +1,409 @@
+Year_Country,pisa_math,pisa_reading,pisa_science
+2000_Albania,,349.0,
+2000_Algeria,,,
+2000_Argentina,,,
+2000_Australia,,528.0,
+2000_Austria,,492.0,
+2000_Belgium,,507.0,
+2000_Brazil,,396.0,
+2000_Bulgaria,,430.0,
+2000_Canada,,534.0,
+2000_Chile,,410.0,
+2000_China,,,
+2000_Colombia,,,
+2000_Costa Rica,,,
+2000_Croatia,,,
+2000_Cyprus,,,
+2000_Czechia,,492.0,
+2000_Denmark,,497.0,
+2000_Dominican Republic,,,
+2000_Estonia,,,
+2000_Finland,,546.0,
+2000_France,,505.0,
+2000_Georgia,,,
+2000_Germany,,484.0,
+2000_Greece,,474.0,
+2000_Hungary,,480.0,
+2000_Iceland,,507.0,
+2000_Indonesia,,371.0,
+2000_Ireland,,527.0,
+2000_Israel,,452.0,
+2000_Italy,,487.0,
+2000_Japan,,522.0,
+2000_Jordan,,,
+2000_Kazakhstan,,,
+2000_Latvia,,458.0,
+2000_Lebanon,,,
+2000_Lithuania,,,
+2000_Luxembourg,,441.0,
+2000_Malaysia,,,
+2000_Malta,,,
+2000_Mexico,,422.0,
+2000_Montenegro,,,
+2000_Netherlands,,,
+2000_New Zealand,,529.0,
+2000_North Macedonia,,373.0,
+2000_Norway,,505.0,
+2000_Peru,,327.0,
+2000_Poland,,479.0,
+2000_Portugal,,470.0,
+2000_Qatar,,,
+2000_Republic of Korea,,525.0,
+2000_Republic of Moldova,,,
+2000_Romania,,428.0,
+2000_Russian Federation,,462.0,
+2000_Singapore,,,
+2000_Slovakia,,,
+2000_Slovenia,,,
+2000_Spain,,493.0,
+2000_Sweden,,516.0,
+2000_Switzerland,,494.0,
+2000_Thailand,,431.0,
+2000_Trinidad and Tobago,,,
+2000_Tunisia,,,
+2000_Turkey,,,
+2000_United Arab Emirates,,,
+2000_United Kingdom of Great Britain and Northern Ireland,,523.0,
+2000_United States of America,,504.0,
+2000_Uruguay,,,
+2000_Viet Nam,,,
+2003_Albania,,,
+2003_Algeria,,,
+2003_Argentina,,,
+2003_Australia,524.0,525.0,
+2003_Austria,506.0,491.0,
+2003_Belgium,529.0,507.0,
+2003_Brazil,356.0,403.0,
+2003_Bulgaria,,,
+2003_Canada,532.0,528.0,
+2003_Chile,,,
+2003_China,,,
+2003_Colombia,,,
+2003_Costa Rica,,,
+2003_Croatia,,,
+2003_Cyprus,,,
+2003_Czechia,516.0,489.0,
+2003_Denmark,514.0,492.0,
+2003_Dominican Republic,,,
+2003_Estonia,,,
+2003_Finland,544.0,543.0,
+2003_France,511.0,496.0,
+2003_Georgia,,,
+2003_Germany,503.0,491.0,
+2003_Greece,445.0,472.0,
+2003_Hungary,490.0,482.0,
+2003_Iceland,515.0,492.0,
+2003_Indonesia,360.0,382.0,
+2003_Ireland,503.0,515.0,
+2003_Israel,,,
+2003_Italy,466.0,476.0,
+2003_Japan,534.0,498.0,
+2003_Jordan,,,
+2003_Kazakhstan,,,
+2003_Latvia,483.0,491.0,
+2003_Lebanon,,,
+2003_Lithuania,,,
+2003_Luxembourg,493.0,479.0,
+2003_Malaysia,,,
+2003_Malta,,,
+2003_Mexico,385.0,400.0,
+2003_Montenegro,,,
+2003_Netherlands,538.0,513.0,
+2003_New Zealand,523.0,522.0,
+2003_North Macedonia,,,
+2003_Norway,495.0,500.0,
+2003_Peru,,,
+2003_Poland,490.0,497.0,
+2003_Portugal,466.0,478.0,
+2003_Qatar,,,
+2003_Republic of Korea,542.0,534.0,
+2003_Republic of Moldova,,,
+2003_Romania,,,
+2003_Russian Federation,468.0,442.0,
+2003_Singapore,,,
+2003_Slovakia,498.0,469.0,
+2003_Slovenia,,,
+2003_Spain,485.0,481.0,
+2003_Sweden,509.0,514.0,
+2003_Switzerland,527.0,499.0,
+2003_Thailand,417.0,420.0,
+2003_Trinidad and Tobago,,,
+2003_Tunisia,359.0,375.0,
+2003_Turkey,423.0,441.0,
+2003_United Arab Emirates,,,
+2003_United Kingdom of Great Britain and Northern Ireland,508.0,507.0,
+2003_United States of America,483.0,495.0,
+2003_Uruguay,422.0,434.0,
+2003_Viet Nam,,,
+2006_Albania,,,
+2006_Algeria,,,
+2006_Argentina,,,
+2006_Australia,520.0,513.0,527.0
+2006_Austria,505.0,490.0,511.0
+2006_Belgium,520.0,501.0,510.0
+2006_Brazil,370.0,393.0,
+2006_Bulgaria,413.0,402.0,
+2006_Canada,527.0,527.0,534.0
+2006_Chile,411.0,442.0,438.0
+2006_China,,,
+2006_Colombia,370.0,385.0,
+2006_Costa Rica,,,
+2006_Croatia,467.0,477.0,
+2006_Cyprus,,,
+2006_Czechia,510.0,483.0,513.0
+2006_Denmark,513.0,494.0,496.0
+2006_Dominican Republic,,,
+2006_Estonia,515.0,501.0,531.0
+2006_Finland,548.0,547.0,563.0
+2006_France,496.0,488.0,495.0
+2006_Georgia,,,
+2006_Germany,504.0,495.0,516.0
+2006_Greece,459.0,460.0,473.0
+2006_Hungary,491.0,482.0,504.0
+2006_Iceland,506.0,484.0,491.0
+2006_Indonesia,391.0,393.0,
+2006_Ireland,501.0,517.0,508.0
+2006_Israel,442.0,439.0,454.0
+2006_Italy,462.0,469.0,475.0
+2006_Japan,523.0,498.0,531.0
+2006_Jordan,384.0,401.0,
+2006_Kazakhstan,,,
+2006_Latvia,486.0,479.0,490.0
+2006_Lebanon,,,
+2006_Lithuania,486.0,470.0,
+2006_Luxembourg,490.0,479.0,486.0
+2006_Malaysia,,,
+2006_Malta,,,
+2006_Mexico,406.0,410.0,410.0
+2006_Montenegro,399.0,392.0,
+2006_Netherlands,531.0,507.0,525.0
+2006_New Zealand,522.0,521.0,530.0
+2006_North Macedonia,,,
+2006_Norway,490.0,484.0,487.0
+2006_Peru,,,
+2006_Poland,495.0,508.0,498.0
+2006_Portugal,466.0,472.0,474.0
+2006_Qatar,318.0,312.0,
+2006_Republic of Korea,547.0,556.0,522.0
+2006_Republic of Moldova,,,
+2006_Romania,415.0,396.0,
+2006_Russian Federation,476.0,440.0,
+2006_Singapore,,,
+2006_Slovakia,492.0,466.0,488.0
+2006_Slovenia,504.0,494.0,519.0
+2006_Spain,480.0,461.0,488.0
+2006_Sweden,502.0,507.0,503.0
+2006_Switzerland,530.0,499.0,512.0
+2006_Thailand,417.0,417.0,
+2006_Trinidad and Tobago,,,
+2006_Tunisia,365.0,380.0,
+2006_Turkey,424.0,447.0,424.0
+2006_United Arab Emirates,,,
+2006_United Kingdom of Great Britain and Northern Ireland,495.0,495.0,515.0
+2006_United States of America,474.0,,489.0
+2006_Uruguay,427.0,413.0,
+2006_Viet Nam,,,
+2009_Albania,377.0,385.0,
+2009_Algeria,,,
+2009_Argentina,,,
+2009_Australia,514.0,515.0,527.0
+2009_Austria,496.0,470.0,494.0
+2009_Belgium,515.0,506.0,507.0
+2009_Brazil,386.0,412.0,
+2009_Bulgaria,428.0,429.0,
+2009_Canada,527.0,524.0,529.0
+2009_Chile,421.0,449.0,447.0
+2009_China,,,
+2009_Colombia,381.0,413.0,
+2009_Costa Rica,,,
+2009_Croatia,460.0,476.0,
+2009_Cyprus,,,
+2009_Czechia,493.0,478.0,500.0
+2009_Denmark,503.0,495.0,499.0
+2009_Dominican Republic,,,
+2009_Estonia,512.0,501.0,528.0
+2009_Finland,541.0,536.0,554.0
+2009_France,497.0,496.0,498.0
+2009_Georgia,,,
+2009_Germany,513.0,497.0,520.0
+2009_Greece,466.0,483.0,470.0
+2009_Hungary,490.0,494.0,503.0
+2009_Iceland,507.0,500.0,496.0
+2009_Indonesia,371.0,402.0,
+2009_Ireland,487.0,496.0,508.0
+2009_Israel,447.0,474.0,455.0
+2009_Italy,483.0,486.0,489.0
+2009_Japan,529.0,520.0,539.0
+2009_Jordan,387.0,405.0,
+2009_Kazakhstan,405.0,390.0,
+2009_Latvia,482.0,484.0,494.0
+2009_Lebanon,,,
+2009_Lithuania,477.0,468.0,
+2009_Luxembourg,489.0,472.0,484.0
+2009_Malaysia,,,
+2009_Malta,,,
+2009_Mexico,419.0,425.0,416.0
+2009_Montenegro,403.0,408.0,
+2009_Netherlands,526.0,508.0,522.0
+2009_New Zealand,519.0,521.0,532.0
+2009_North Macedonia,,,
+2009_Norway,498.0,503.0,500.0
+2009_Peru,365.0,370.0,
+2009_Poland,495.0,500.0,508.0
+2009_Portugal,487.0,489.0,493.0
+2009_Qatar,368.0,372.0,
+2009_Republic of Korea,546.0,539.0,538.0
+2009_Republic of Moldova,,,
+2009_Romania,427.0,424.0,
+2009_Russian Federation,468.0,459.0,
+2009_Singapore,562.0,526.0,
+2009_Slovakia,497.0,477.0,490.0
+2009_Slovenia,501.0,483.0,512.0
+2009_Spain,483.0,481.0,488.0
+2009_Sweden,494.0,497.0,495.0
+2009_Switzerland,534.0,501.0,517.0
+2009_Thailand,419.0,421.0,
+2009_Trinidad and Tobago,414.0,416.0,
+2009_Tunisia,371.0,404.0,
+2009_Turkey,445.0,464.0,454.0
+2009_United Arab Emirates,,,
+2009_United Kingdom of Great Britain and Northern Ireland,492.0,494.0,514.0
+2009_United States of America,487.0,500.0,502.0
+2009_Uruguay,427.0,426.0,
+2009_Viet Nam,,,
+2012_Albania,394.0,394.0,
+2012_Algeria,,,
+2012_Argentina,,,
+2012_Australia,504.0,512.0,521.0
+2012_Austria,506.0,490.0,506.0
+2012_Belgium,515.0,509.0,505.0
+2012_Brazil,389.0,407.0,
+2012_Bulgaria,439.0,436.0,
+2012_Canada,518.0,523.0,525.0
+2012_Chile,423.0,441.0,445.0
+2012_China,,,
+2012_Colombia,376.0,403.0,
+2012_Costa Rica,407.0,441.0,
+2012_Croatia,471.0,485.0,
+2012_Cyprus,,,
+2012_Czechia,499.0,493.0,508.0
+2012_Denmark,500.0,496.0,498.0
+2012_Dominican Republic,,,
+2012_Estonia,521.0,516.0,541.0
+2012_Finland,519.0,524.0,545.0
+2012_France,495.0,505.0,499.0
+2012_Georgia,,,
+2012_Germany,514.0,508.0,524.0
+2012_Greece,453.0,477.0,467.0
+2012_Hungary,477.0,488.0,494.0
+2012_Iceland,493.0,483.0,478.0
+2012_Indonesia,375.0,396.0,
+2012_Ireland,501.0,523.0,522.0
+2012_Israel,466.0,486.0,470.0
+2012_Italy,485.0,490.0,494.0
+2012_Japan,536.0,538.0,547.0
+2012_Jordan,386.0,399.0,
+2012_Kazakhstan,432.0,393.0,
+2012_Latvia,491.0,489.0,502.0
+2012_Lebanon,,,
+2012_Lithuania,479.0,477.0,
+2012_Luxembourg,490.0,488.0,491.0
+2012_Malaysia,421.0,398.0,
+2012_Malta,,,
+2012_Mexico,413.0,424.0,415.0
+2012_Montenegro,410.0,422.0,
+2012_Netherlands,523.0,511.0,522.0
+2012_New Zealand,500.0,512.0,516.0
+2012_North Macedonia,,,
+2012_Norway,489.0,504.0,495.0
+2012_Peru,368.0,384.0,
+2012_Poland,518.0,518.0,526.0
+2012_Portugal,487.0,488.0,489.0
+2012_Qatar,376.0,388.0,
+2012_Republic of Korea,554.0,536.0,538.0
+2012_Republic of Moldova,,,
+2012_Romania,445.0,438.0,
+2012_Russian Federation,482.0,475.0,
+2012_Singapore,573.0,542.0,
+2012_Slovakia,482.0,463.0,471.0
+2012_Slovenia,501.0,481.0,514.0
+2012_Spain,484.0,488.0,496.0
+2012_Sweden,478.0,483.0,485.0
+2012_Switzerland,531.0,509.0,515.0
+2012_Thailand,427.0,441.0,
+2012_Trinidad and Tobago,,,
+2012_Tunisia,388.0,404.0,
+2012_Turkey,448.0,475.0,463.0
+2012_United Arab Emirates,434.0,442.0,
+2012_United Kingdom of Great Britain and Northern Ireland,494.0,499.0,514.0
+2012_United States of America,481.0,498.0,497.0
+2012_Uruguay,409.0,411.0,
+2012_Viet Nam,511.0,508.0,
+2015_Albania,,,
+2015_Algeria,360.0,350.0,
+2015_Argentina,409.0,425.0,
+2015_Australia,494.0,503.0,510.0
+2015_Austria,497.0,485.0,495.0
+2015_Belgium,507.0,499.0,502.0
+2015_Brazil,377.0,407.0,
+2015_Bulgaria,441.0,432.0,
+2015_Canada,516.0,527.0,528.0
+2015_Chile,423.0,459.0,447.0
+2015_China,,,
+2015_Colombia,390.0,425.0,
+2015_Costa Rica,400.0,427.0,
+2015_Croatia,464.0,487.0,
+2015_Cyprus,437.0,443.0,
+2015_Czechia,492.0,487.0,493.0
+2015_Denmark,511.0,500.0,502.0
+2015_Dominican Republic,328.0,358.0,
+2015_Estonia,520.0,519.0,534.0
+2015_Finland,511.0,526.0,531.0
+2015_France,493.0,499.0,495.0
+2015_Georgia,404.0,401.0,
+2015_Germany,506.0,509.0,509.0
+2015_Greece,454.0,467.0,455.0
+2015_Hungary,477.0,470.0,477.0
+2015_Iceland,488.0,482.0,473.0
+2015_Indonesia,386.0,397.0,
+2015_Ireland,504.0,521.0,503.0
+2015_Israel,470.0,479.0,467.0
+2015_Italy,490.0,485.0,481.0
+2015_Japan,532.0,516.0,538.0
+2015_Jordan,380.0,408.0,
+2015_Kazakhstan,,,
+2015_Latvia,482.0,488.0,490.0
+2015_Lebanon,396.0,347.0,
+2015_Lithuania,478.0,472.0,
+2015_Luxembourg,486.0,481.0,483.0
+2015_Malaysia,,,
+2015_Malta,479.0,447.0,
+2015_Mexico,408.0,423.0,416.0
+2015_Montenegro,418.0,427.0,
+2015_Netherlands,512.0,503.0,509.0
+2015_New Zealand,495.0,509.0,513.0
+2015_North Macedonia,371.0,352.0,
+2015_Norway,502.0,513.0,498.0
+2015_Peru,387.0,398.0,
+2015_Poland,504.0,506.0,501.0
+2015_Portugal,492.0,498.0,501.0
+2015_Qatar,402.0,402.0,
+2015_Republic of Korea,524.0,517.0,516.0
+2015_Republic of Moldova,420.0,416.0,
+2015_Romania,444.0,434.0,
+2015_Russian Federation,494.0,495.0,
+2015_Singapore,564.0,535.0,
+2015_Slovakia,475.0,453.0,461.0
+2015_Slovenia,510.0,505.0,513.0
+2015_Spain,486.0,496.0,493.0
+2015_Sweden,494.0,500.0,493.0
+2015_Switzerland,521.0,492.0,506.0
+2015_Thailand,415.0,409.0,
+2015_Trinidad and Tobago,417.0,427.0,
+2015_Tunisia,367.0,361.0,
+2015_Turkey,420.0,428.0,425.0
+2015_United Arab Emirates,427.0,434.0,
+2015_United Kingdom of Great Britain and Northern Ireland,492.0,498.0,509.0
+2015_United States of America,470.0,497.0,496.0
+2015_Uruguay,418.0,437.0,
+2015_Viet Nam,495.0,487.0,
