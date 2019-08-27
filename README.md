@@ -1,7 +1,7 @@
 # World-Education-Quality-Analysis
 ### Authored by : Sean Bjork
 
-![](./visuals/ed_qual_2018.png)
+![](./visuals/ed_qual_2012.png)
 
 ## Motivating Questions
 
