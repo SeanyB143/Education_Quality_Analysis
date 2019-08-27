@@ -2,7 +2,7 @@
 ### Authored by : Sean Bjork
 
 ![](./visuals/ed_qual_2012.png)
-> Education Qualities in 2012
+> Above shows education qualities in 2012
 
 ## Motivating Questions
 
@@ -11,10 +11,13 @@
   - Why do countries such as the US spend "top dollar" for an education system that isn't also top quality?
 
 ## Data
+
 - UNESCO UIS: United Nations Educational, Scientific and Cultural Organization Institute for Statistics
   - http://data.uis.unesco.org/#
+- The World Bank: IBRD & IDA Education Statistics
+  - International Bank for Reconstruction and Development & International Development Association
+    - https://datacatalog.worldbank.org/dataset/education-statistics
 
- 
 
 ## Repository Structure
 - Jupyter Notebooks:
