@@ -8,7 +8,7 @@
 
 - Which countries have the best overall education quality?
 - Which factors of education best predict overall quality?
-  - Why do countries such as the United States spend next-to-top dollar for education without having next-to-top quality education?
+  - Why do countries, such as the United States, spend "top dollar" for an education system that isn't also top quality?
 
 ## Data
 
