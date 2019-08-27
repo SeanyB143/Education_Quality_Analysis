@@ -2,7 +2,7 @@
 ### Authored by : Sean Bjork
 
 ![](./visuals/ed_qual_2012.png)
-> Above shows education qualities in 2012
+> World Heat Map of Education Quality in 2012
 
 ## Motivating Questions
 - Which countries have the best overall education quality?
@@ -81,14 +81,20 @@ Our methodolgy for calculating a comparitive edcuation quality index started wit
 
 The top countries for each of our four indexes were calculated, as well as the most highly correlated features with each. We generater heat maps of this information: the index correlations with seaborn and overall education quality with Tableau. Lastly, we calculated the average education quality worldwide to determine the long-term trend.
 
-## Findings/Conclusions
+## Findings
+Below are the heat maps generated from our analysis:
 ![](./visuals/ed_qual_2000.png)
+> World Heat Map of Education Quality in 2000
 ![](./visuals/ed_qual_2003.png)
+> World Heat Map of Education Quality in 2003
 ![](./visuals/ed_qual_2006.png)
+> World Heat Map of Education Quality in 2006
 ![](./visuals/ed_qual_2009.png)
+> World Heat Map of Education Quality in 2009
 ![](./visuals/ed_qual_2012.png)
+> World Heat Map of Education Quality in 2012
 ![](./visuals/ed_qual_2015.png)
-In this study, we found lists of words which occur frequently in both AskWomen and AskMen, as well as words which occur in one of the subreddits or the other. The words in these latter two lists effectively serve as the best-predicting features for our models. Our accuracy score (.664) is significantly greater than the naive prediction accuracy (.539).
+> World Heat Map of Education Quality in 2015
 
 ## Recommendations/Future Steps
 For further research, we encourage the collection of more data and vectorizing within the gridsearch to improve hyperparameter tuning. Also, feature engineering which included character and word counts, as well as incorporation of the 'text' feature from posts that included it, may improve modeling performance.
