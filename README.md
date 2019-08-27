@@ -23,19 +23,28 @@
     - https://datacatalog.worldbank.org/dataset/education-statistics
 
 ## Repository Structure
+
+- Datasets:
+  -UIS
+    - ('./data/UIS/EDULIT_DS_23082019165936814.csv.csv') # First download
+    - ('./data/UIS/EDULIT_DS_25082019015237837.csv') # Second download 
+    - ('./data/UIS/uis.csv') # Cleaned data
+    
+  - (./data/clean_data.csv)
+  - (./data/cvec_df.csv)
+  - (./data/tfidf_df.csv)
 - Jupyter Notebooks:
   - (./code/1_scraping.ipynb)
   - (./code/2_cleaning.ipynb)
   - (./code/3_NLP_EDA.ipynb)
   - (./code/4_modeling_cvec.ipynb)
   - (./code/5_modeling_tfidf.ipynb)
-- Datasets:
-  - (./data/data.csv)
-  - (./data/clean_data.csv)
-  - (./data/cvec_df.csv)
-  - (./data/tfidf_df.csv)
+  
+
+  
 - Presentation:
   - (./slides/AskWomen_AskMen_Classification.pdf)
+  
 - Pictures:
   - (./pictures/overlap_words.png)
 
@@ -52,5 +61,4 @@ For further research, we encourage the collection of more data and vectorizing w
 
 
 ## References
-Data:
-urls
+
