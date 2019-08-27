@@ -82,15 +82,14 @@ Our methodolgy for calculating a comparitive edcuation quality index started wit
 The top countries for each of our four indexes were calculated, as well as the most highly correlated features with each. We generater heat maps of this information: the index correlations with seaborn and overall education quality with Tableau. Lastly, we calculated the average education quality worldwide to determine the long-term trend.
 
 ## Findings
-
 - *Top Countries for School Climate Index*
-![](./visuals/top_climate.png)
+  - ![](./visuals/top_climate.png)
 - *Top Countries for Learning Outcomes Index*
-![](./visuals/top_learning.png)
+  - ![](./visuals/top_learning.png)
 - *Top Countries for School Resources Index*
-![](./visuals/top_resources.png)
+  - ![](./visuals/top_resources.png)
 - *Top Countries for Education Quality Index*
-![](./visuals/top_ed_qual.png)
+  - ![](./visuals/top_ed_qual.png)
 
 
 - *Most Correlated Features with School Climate Index*
