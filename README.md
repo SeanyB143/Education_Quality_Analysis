@@ -115,6 +115,8 @@ The top countries for each of our four indexes were calculated, as well as the m
 - *World Heat Map of Education Quality in 2015*
 ![](./visuals/ed_qual_2015.png)
 
+- *Yearly Worldwide Average Education Quality Index*
+  - ![](./visuals/yearly_ed_qual.png)
 
 ## Recommendations/Future Steps
 For further research, we encourage the collection of more data and vectorizing within the gridsearch to improve hyperparameter tuning. Also, feature engineering which included character and word counts, as well as incorporation of the 'text' feature from posts that included it, may improve modeling performance.
