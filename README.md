@@ -8,9 +8,11 @@
 
 - Which countries have the best overall education quality?
 - Which factors of education best predict overall quality?
-  - Why do countries, such as the United States, spend "top dollar" for an education system that isn't also top quality?
+  - Why do countries such as the US spend "top dollar" for an education system that isn't also top quality?
 
 ## Data
+- UNESCO UIS: United Nations Educational, Scientific and Cultural Organization Institute for Statistics
+  - http://data.uis.unesco.org/#
 
  
 
