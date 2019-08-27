@@ -5,13 +5,11 @@
 > Above shows education qualities in 2012
 
 ## Motivating Questions
-
 - Which countries have the best overall education quality?
 - Which factors of education best predict overall quality?
   - Why do countries such as the US spend "top dollar" for an education system that isn't also top quality?
 
 ## Data
-
 - UNESCO UIS: Education Statistics
   - United Nations Educational, Scientific and Cultural Organization Institute for Statistics
     - http://data.uis.unesco.org/#
@@ -24,7 +22,6 @@
 
 ## Repository Structure
 ### Data:
-
 - UIS
   - (./data/UIS/EDULIT_DS_23082019165936814.csv.csv) # First download
   - (./data/UIS/EDULIT_DS_25082019015237837.csv) # Second download 
@@ -43,7 +40,6 @@
   - (./data/modeling/tableau_df.csv) # Formatted for Tableau
 
 ### Notebooks:
-
 - Cleaning:
   - (./notebooks/UIS_cleaning.ipynb)
   - (./notebooks/PISA_cleaning.ipynb)
@@ -89,4 +85,3 @@ For further research, we encourage the collection of more data and vectorizing w
 
 
 ## References
-
