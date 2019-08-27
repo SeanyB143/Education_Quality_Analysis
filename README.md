@@ -13,8 +13,8 @@
 - UNESCO UIS: Education Statistics
   - United Nations Educational, Scientific and Cultural Organization Institute for Statistics
     - http://data.uis.unesco.org/#
-- PISA Score Reports in Math, Reading, & Science
-  - Program for International Student Assessment
+- PISA IDE Score Reports in Math, Reading, & Science
+  - Program for International Student Assessment International Database Explorer
     - https://pisadataexplorer.oecd.org/ide/idepisa/
 - The World Bank: IBRD & IDA Education Statistics
   - International Bank for Reconstruction and Development & International Development Association
@@ -73,11 +73,21 @@
   - (./slides/education_analysis_slides.pdf)
 
 ## Executive Summary
-Our data was collected from multiple requests to our desired Reddit APIs. Of the keys provided in these dictionaries, we were most interested by "title", which contained the question for each post and contained zero missing values. Cleaning our data entailed removing undesired special characters (mostly "#" and "\") and replacing the commonly used abbreviation "SO" with "sigoth", short for "significant other". For natural language processing, we employed both the CountVectorizer and TFIDF, creating data frames labeled "cvec_df.csv" and "tfidf_df.csv". We added "target" columns to these data frames to conclude our preprocessing.
+Based on several readings about measuring education quality, namely the feature selection therefor, we followed recommendations made by Max Roser in his article posted on Our World in Data. In this article, there is particular emphasis on school climate and learning outcomes as the best factors for calculating education quality. Based on other readings, as well as our own facination and intuition, school resources is also included as a feature category for our measure of international education. Due to the limits of the PISA Assessment, the scope of our analysis is limited to 68 countries over the span of 2000 to 2015.
 
-For the modeling of our data, we used both LogisticRegression and Multinomial Naive Bayes with both vectorized data frames. Utilizing GridSearchCV, we found the best hyperparameters for each model. For LogisticRegression, the best "penalty" (regularizer) was found to be Lasso. However, the best accuracy score from this model (.664) was less than the best found with Naive Bayes. It is interesting to note that the Naive Bayes calculations occured much more quickly, as GridSearching hundreds of alpha-values took mere seconds.
+Once these three feature categories were established, the specific features for each were meticulously selected. Factors associated with school climate were extracted from UNESCO's Institute for Statistics (UIS) and include enrolment rates (gross and net, intake ratios, drop-out rates, graduation rates, and school life expectancy to name a few - full feature list included in UIS_cleaning notebook. Factors associated with learning outcomes include PISA's math, reading, and science assessment for 15-year-olds, as well as literacy rates from the World Bank data set (percentages of total youth and total adult). Lastly, the factors associated with school resources were selected from solely the World Bank data set and include government expenditutre on education as a percentage of total GDP, total government expenditure, total government expenditure on public institutions, and on a per capita basis.
+
+Our methodolgy for calculating a comparitive edcuation quality index started with calculating individual indexes for each of our three feature categories: school climate, learning outcomes, and school resources. This was done by first employing a minimum-maximum scaler to all features with the minimum set to .9 and the maximum set to 1.1. Missing values were inputed as 1, so to not explicitly effect our indexes when data points were missing (more about this in limitations section). The total products of all our scaled features, therefore, served as our three indexes. After again scaling these values to account for differing numbers of features in each, we multiplied the three indexes to calculate our overall education quality index. Again, this was done for all 68 countries over our fifteen year span.
+
+The top countries for each of our four indexes were calculated, as well as the most highly correlated features with each. We generater heat maps of this information: the index correlations with seaborn and overall education quality with Tableau. Lastly, we calculated the average education quality worldwide to determine the long-term trend.
 
 ## Findings/Conclusions
+![](./visuals/ed_qual_2000.png)
+![](./visuals/ed_qual_2003.png)
+![](./visuals/ed_qual_2006.png)
+![](./visuals/ed_qual_2009.png)
+![](./visuals/ed_qual_2012.png)
+![](./visuals/ed_qual_2015.png)
 In this study, we found lists of words which occur frequently in both AskWomen and AskMen, as well as words which occur in one of the subreddits or the other. The words in these latter two lists effectively serve as the best-predicting features for our models. Our accuracy score (.664) is significantly greater than the naive prediction accuracy (.539).
 
 ## Recommendations/Future Steps
@@ -85,6 +95,9 @@ For further research, we encourage the collection of more data and vectorizing w
 
 
 ## References
+- Measuring education: What data is available? (February 2018)
+  - Our World in Data Report by Max Roser
+    - https://ourworldindata.org/measuring-education-what-data-is-available
 - Improving the Efficiency and Equity of Public Education Spending: The Case of Moldova (February 2019)
   - IMF Working Paper by Hui Jin, La-Bhus Fah Jirasavetakul, and Baoping Shang
     - https://www.imf.org/~/media/Files/Publications/WP/2019/WPIEA2019042.ashx
@@ -92,8 +105,10 @@ For further research, we encourage the collection of more data and vectorizing w
   - University World News: The Global Window on Higher Education Report by Philip G Altbach and Ellen Hazelkorn
     - https://www.universityworldnews.com/post.php?story=20180814184535721
 - Data Resources:
-  - UNESCO UIS, PISA, & The World Bank: IBRD & IDA
+  - UNESCO UIS (February 2019)
     - http://data.uis.unesco.org/#
+  - PISA (February 2017)
     - https://pisadataexplorer.oecd.org/ide/idepisa/
+  - World Bank (June 2017)
     - https://datacatalog.worldbank.org/dataset/education-statistics
     
