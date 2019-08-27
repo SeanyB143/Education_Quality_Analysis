@@ -2,6 +2,7 @@
 ### Authored by : Sean Bjork
 
 ![](./visuals/ed_qual_2012.png)
+Education Quality 2012
 
 ## Motivating Questions
 
