@@ -23,12 +23,11 @@
     - https://datacatalog.worldbank.org/dataset/education-statistics
 
 ## Repository Structure
-
-- Datasets:
-  -UIS
-    - ('./data/UIS/EDULIT_DS_23082019165936814.csv.csv') # First download
-    - ('./data/UIS/EDULIT_DS_25082019015237837.csv') # Second download 
-    - ('./data/UIS/uis.csv') # Cleaned data
+Data:
+-UIS
+  - ('./data/UIS/EDULIT_DS_23082019165936814.csv.csv') # First download
+  - ('./data/UIS/EDULIT_DS_25082019015237837.csv') # Second download 
+  - ('./data/UIS/uis.csv') # Cleaned data
     
   - (./data/clean_data.csv)
   - (./data/cvec_df.csv)
