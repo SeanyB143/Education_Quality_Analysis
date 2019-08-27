@@ -25,21 +25,34 @@
 ## Repository Structure
 ### Data:
 
--UIS
-  - ('./data/UIS/EDULIT_DS_23082019165936814.csv.csv') # First download
-  - ('./data/UIS/EDULIT_DS_25082019015237837.csv') # Second download 
-  - ('./data/UIS/uis.csv') # Cleaned data
-    
-  - (./data/clean_data.csv)
-  - (./data/cvec_df.csv)
-  - (./data/tfidf_df.csv)
-- Jupyter Notebooks:
+- UIS
+  - (./data/UIS/EDULIT_DS_23082019165936814.csv.csv) # First download
+  - (./data/UIS/EDULIT_DS_25082019015237837.csv) # Second download 
+  - (./data/UIS/uis.csv) # Cleaned data
+- PISA
+  - (./data/pisa/math_report-Table 1.csv) # Math scores
+  - (./data/pisa/reading_report-Table 1.csv) # Reading scores
+  - (./data/pisa/science_report-Table 1.csv) # Science scores
+  - (./data/pisa/pisa.csv) # Cleaned data
+- World Bank
+  - (./data/world_bank/API_4_DS2_en_csv_v2_103930.csv) # Data download
+  - (./data/world_bank/world_bank.csv) # Cleaned data
+- Modeling
+  - (./data/modeling/original_stats.csv) # Combined data
+  - (./data/modeling/scaled_stats.csv) # Scaled data with indexes
+  - (./data/modeling/tableau_df.csv) # Formatted for Tableau
+
+### Notebooks:
+
+- Cleaning:
   - (./code/1_scraping.ipynb)
   - (./code/2_cleaning.ipynb)
   - (./code/3_NLP_EDA.ipynb)
   - (./code/4_modeling_cvec.ipynb)
   - (./code/5_modeling_tfidf.ipynb)
-  
+- Preprocessing
+
+- EDA & Modeling
 
   
 - Presentation:
