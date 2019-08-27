@@ -45,21 +45,36 @@
 ### Notebooks:
 
 - Cleaning:
-  - (./code/1_scraping.ipynb)
-  - (./code/2_cleaning.ipynb)
-  - (./code/3_NLP_EDA.ipynb)
-  - (./code/4_modeling_cvec.ipynb)
-  - (./code/5_modeling_tfidf.ipynb)
-- Preprocessing
-
+  - (./notebooks/UIS_cleaning.ipynb)
+  - (./notebooks/PISA_cleaning.ipynb)
+  - (./notebooks/world_bank_cleaning.ipynb)
+- Preprocessing & Feature Engineering
+  - (./notebooks/preprocessing_engineering.ipynb)
 - EDA & Modeling
+  - (./notebooks/EDA_modeling.ipynb)
 
-  
+### Visuals
+- Tables & Heat Maps:
+  - (./visuals/ed_qual_2000.png)
+  - (./visuals/ed_qual_2003.png)
+  - (./visuals/ed_qual_2006.png)
+  - (./visuals/ed_qual_2009.png)
+  - (./visuals/ed_qual_2012.png)
+  - (./visuals/ed_qual_2015.png)
+  - (./visuals/ed_qual_correlations.png)
+  - (./visuals/climate_correlations.png)
+  - (./visuals/learning_correlations.png)
+  - (./visuals/resources_correlations.png)
+  - (./visuals/top_ed_qual.png)
+  - (./visuals/top_climate.png)
+  - (./visuals/top_learning.png)
+  - (./visuals/top_resources.png)
+  - (./visuals/yearly_ed_qual.png)
+  - (./visuals/education_expenditure.jpg)
+
+### Slide Deck
 - Presentation:
-  - (./slides/AskWomen_AskMen_Classification.pdf)
-  
-- Pictures:
-  - (./pictures/overlap_words.png)
+  - (./slides/education_analysis_slides.pdf)
 
 ## Executive Summary
 Our data was collected from multiple requests to our desired Reddit APIs. Of the keys provided in these dictionaries, we were most interested by "title", which contained the question for each post and contained zero missing values. Cleaning our data entailed removing undesired special characters (mostly "#" and "\") and replacing the commonly used abbreviation "SO" with "sigoth", short for "significant other". For natural language processing, we employed both the CountVectorizer and TFIDF, creating data frames labeled "cvec_df.csv" and "tfidf_df.csv". We added "target" columns to these data frames to conclude our preprocessing.
