@@ -1,18 +1,15 @@
-# AskWomen-AskMen-Classification
+# World-Education-Quality-Analysis
 ### Authored by : Sean Bjork
 
-![](./pictures/overlap_words.png)
+![](./visuals/ed_qual_2018.png)
 
-## Problem Statement
-- Can questions asked on subreddit threads AskWomen and AskMen be classified with accuracy over 70%
-- To solve this problem, we conduct vectorization with CountVectorizer and TFIDF. We model our resulting data frames using LogisticRegression with LASSO regularization and Multinomial Naive Bayes. The target variable for this analysis is the source of the question: AskWomen (1) or AskMen (0).
+## Motivating Questions
+
+- Which countries have the best overall education quality?
+- Which factors of education best predict overall quality?
 
 ## Data
-- 1269 rows (posts) collected from Reddit.com, specifically reddit.com/r/AskWomen and reddit.com/r/AskMen.
 
-- Roughly even distribution from each: 684 from AskWomen (54%) and 585 from AskMen (46%).
-
-  - The higher of these, 54%, acts as our naive prediction (simplest model which predicts majority class at 100%).
  
 
 ## Repository Structure
@@ -46,5 +43,4 @@ For further research, we encourage the collection of more data and vectorizing w
 
 ## References
 Data:
-- https://reddit.com/r/AskWomen.json
-- https://reddit.com/r/AskMen.json
+urls
