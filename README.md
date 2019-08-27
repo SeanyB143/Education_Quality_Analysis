@@ -82,17 +82,17 @@ The top countries for each of our four indexes were calculated, as well as the m
 
 ## Findings
 Below are the heat maps generated from our analysis:
-![World Heat Map of Education Quality in 2000](./visuals/ed_qual_2000.png)
+![](./visuals/ed_qual_2000.png)*World Heat Map of Education Quality in 2000*
 
-![World Heat Map of Education Quality in 2003](./visuals/ed_qual_2003.png)
+![](./visuals/ed_qual_2003.png)*World Heat Map of Education Quality in 2003*
 
-![World Heat Map of Education Quality in 2006](./visuals/ed_qual_2006.png)
+![](./visuals/ed_qual_2006.png)*World Heat Map of Education Quality in 2006*
 
-![World Heat Map of Education Quality in 2009](./visuals/ed_qual_2009.png)
+![](./visuals/ed_qual_2009.png)*World Heat Map of Education Quality in 2009*
 
-![World Heat Map of Education Quality in 2012](./visuals/ed_qual_2012.png)
+![](./visuals/ed_qual_2012.png)*World Heat Map of Education Quality in 2012*
 
-![World Heat Map of Education Quality in 2015](./visuals/ed_qual_2015.png)
+![](./visuals/ed_qual_2015.png)*World Heat Map of Education Quality in 2015*
 
 
 ## Recommendations/Future Steps
