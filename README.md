@@ -82,22 +82,36 @@ Our methodolgy for calculating a comparitive edcuation quality index started wit
 The top countries for each of our four indexes were calculated, as well as the most highly correlated features with each. We generater heat maps of this information: the index correlations with seaborn and overall education quality with Tableau. Lastly, we calculated the average education quality worldwide to determine the long-term trend.
 
 ## Findings
-Below are the heat maps generated from our analysis:
+- *Top Countries for School Climate Index*
+![](./visuals/top_climate.png)
+- *Top Countries for Learning Outcomes Index*
+![](./visuals/top_learning.png)
+- *Top Countries for School Resources Index*
+![](./visuals/top_resources.png)
+- *Top Countries for Education Quality Index*
+![](./visuals/top_ed_qual.png)
+
+
+- *Most Correlated Features with School Climate Index*
+![](./visuals/climate_correlations.png)
+- *Most Correlated Features with Learning Outcomes Index*
+![](./visuals/learning_correlations.png)
+- *Most Correlated Features with School Resources Index*
+![](./visuals/resources_correlations.png)
+- *Most Correlated Features with Education Quality Index*
+![](./visuals/ed_qual_correlations.png)
+
+
 - *World Heat Map of Education Quality in 2000*
 ![](./visuals/ed_qual_2000.png)
-
 - *World Heat Map of Education Quality in 2003*
 ![](./visuals/ed_qual_2003.png)
-
 - *World Heat Map of Education Quality in 2006*
 ![](./visuals/ed_qual_2006.png)
-
 - *World Heat Map of Education Quality in 2009*
 ![](./visuals/ed_qual_2009.png)
-
 - *World Heat Map of Education Quality in 2012*
 ![](./visuals/ed_qual_2012.png)
-
 - *World Heat Map of Education Quality in 2015*
 ![](./visuals/ed_qual_2015.png)
 
