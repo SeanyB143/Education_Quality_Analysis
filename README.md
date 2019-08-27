@@ -2,7 +2,7 @@
 ### Authored by : Sean Bjork
 
 ![](./visuals/ed_qual_2012.png)
-- Education Quality 2012
+- Heat map above compares education qualities in 2012
 
 ## Motivating Questions
 
