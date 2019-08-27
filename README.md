@@ -85,3 +85,15 @@ For further research, we encourage the collection of more data and vectorizing w
 
 
 ## References
+- Improving the Efficiency and Equity of Public Education Spending: The Case of Moldova (February 2019)
+  - IMF Working Paper by Hui Jin, La-Bhus Fah Jirasavetakul, and Baoping Shang
+    - https://www.imf.org/~/media/Files/Publications/WP/2019/WPIEA2019042.ashx
+- Can we measure education quality in global rankings? (August 2018)
+  - University World News: The Global Window on Higher Education Report by Philip G Altbach and Ellen Hazelkorn
+    - https://www.universityworldnews.com/post.php?story=20180814184535721
+- Data Resources:
+  - UNESCO UIS, PISA, & The World Bank: IBRD & IDA
+    - http://data.uis.unesco.org/#
+    - https://pisadataexplorer.oecd.org/ide/idepisa/
+    - https://datacatalog.worldbank.org/dataset/education-statistics
+    
