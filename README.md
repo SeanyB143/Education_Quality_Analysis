@@ -119,8 +119,9 @@ The top countries for each of our four indexes were calculated, as well as the m
   - ![](./visuals/yearly_ed_qual.png)
 
 ## Conclusions / Limitations
-As clearly shown in the world heat maps of education quality, as well as the list of top countries by education quality, the best education systems by overall quality exist in Europe countries, namely Finland, Belgium, and Denmark. This finding is consistent with other meausures of education quality, particularly anecdotal claims about Finland's education As for which features best predict education quality, our learning index is most highly correlated, followed by our enrolment features. This  
-For further research, we encourage the collection of more data and vectorizing within the gridsearch to improve hyperparameter tuning. Also, feature engineering which included character and word counts, as well as incorporation of the 'text' feature from posts that included it, may improve modeling performance.
+As clearly shown in the world heat maps of education quality, as well as the list of top countries by education quality, the best education systems by overall quality exist in Europe countries, namely Finland, Belgium, and Denmark. This finding is consistent with other meausures of education quality, particularly anecdotal claims about Finland's education As for which features best predict education quality, our learning index is most highly correlated, followed by our enrolment features. 
+
+*One or two more paragraph(s)*
 
 
 ## References
